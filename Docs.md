@@ -31,6 +31,7 @@ Para o desenvolvimento do MVP, sugerimos as seguintes tecnologias:
 - **Backend**: Node.js com Express ou Django para APIs RESTful.
 - **Testes Automatizado**: <a href="https://12factor.net/pt_br/">Realizar o projeto seguindo os 12 fatores.<a/>
 - **Banco de Dados**: PostgreSQL ou MongoDB para armazenamento seguro.
+    - **Modelo Conceitual**: ![modelo conceitual](image-1.png)
 - **Segurança**: Bibliotecas como bcrypt para senhas e JWT para autenticação.
 - **Hospedagem**: AWS, Heroku ou Firebase para escalabilidade inicial.
 
