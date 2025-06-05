@@ -26,7 +26,7 @@ As seguintes funcionalidades são essenciais para o MVP:
 
 Para o desenvolvimento do MVP, sugerimos as seguintes tecnologias:
 
-- **Modelo de Pastas**: ![example](image.png)
+- **Modelo de Pastas**: ![Exemplo de arquitetura de pastas](image.png)
 - **Frontend**: React ou Vue.js para interfaces dinâmicas e responsivas.
 - **Backend**: Node.js com Express ou Django para APIs RESTful.
 - **Testes Automatizado**: <a href="https://12factor.net/pt_br/">Realizar o projeto seguindo os 12 fatores.<a/>
